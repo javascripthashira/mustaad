@@ -67,7 +67,7 @@ const Hero = () => {
         </div>
 
         {/* RIGHT — AUTOPLAY CAROUSEL */}
-        <div className="w-full md:w-[45%] mt-28 flex justify-center">
+        <div className="w-full md:w-[45%] mt-32 flex justify-center">
           <div className="relative h-[250px] sm:h-[300px] md:h-[400px] w-full overflow-hidden rounded-xl shadow-2xl">
             <div
               className="
