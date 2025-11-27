@@ -24,7 +24,7 @@ const Hero = () => {
 
       {/* BACKGROUND SHAPE — hidden on phones */}
       <svg
-        className="absolute inset-y-0 left-0 h-full w-3/4 z-10 hidden sm:block"
+        className="absolute inset-y-0 left-0 h-full w-3/4 z-10 block"
         viewBox="0 0 500 1000"
         preserveAspectRatio="none"
       >
