@@ -61,7 +61,7 @@ const Hero = () => {
             and elevate everyday living with modern aesthetics.
           </p>
 
-          <button className="mt-2 px-6 py-3 bg-gray-600 text-gray-900 text-lg font-semibold rounded-full shadow-lg hover:bg-yellow-300 transition-all">
+          <button className="mt-2 px-6 py-3 hover:bg-black bg-gray-600 text-gray-900 text-lg font-semibold rounded-full shadow-lg  transition-all">
             Get Started
           </button>
         </div>
