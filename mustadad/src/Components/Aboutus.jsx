@@ -9,7 +9,8 @@ const Aboutus = () => {
         {/* Left Column: Description */}
         <div className="col-span-1">
           <p className="mb-4 font-semibold text-xl">
-            We offer professional services including new properties, new and commercial real estate views.
+            We offer professional services including Interior Decoration, Architectural design and planning, Rennovation and 
+            Remodelling service .
           </p>
           <p className='font-semibold text-xl'>
             We provide the center details of best experience possible for our clients.
